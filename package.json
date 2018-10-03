@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jillsta/nodejs.git"
+  },
+  "author": "Jill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jillsta/nodejs/issues"
+  },
+  "homepage": "https://github.com/jillsta/nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.4",
+    "yargs": "^4.7.1"
+  }
+}
